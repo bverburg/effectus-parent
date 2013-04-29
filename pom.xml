@@ -66,4 +66,9 @@
             </plugin>
 		</plugins>
 	</build>
+	<modules>
+		<module>../effectus-components</module>
+		<module>../effectus-core</module>
+		<module>../effectus-ui</module>
+	</modules>
 </project>
